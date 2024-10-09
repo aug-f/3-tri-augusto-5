@@ -1,8 +1,6 @@
 
 const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
 
-console.log(url);
-
 /*IMPORTANTE: NO INDEX LOGO ABAIXO DO FOOTER digite:
 script type="module" src="graficos/informacoesGlobais.js></script>
 */
